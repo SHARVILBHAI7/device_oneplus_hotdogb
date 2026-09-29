@@ -30,7 +30,7 @@ PRODUCT_CHARACTERISTICS := nosdcard
 
 # Boot animation
 scr_resolution := 1080
-TARGET_SCREEN_HEIGHT := 2400
+TARGET_SCREEN_HEIGHT := 2340
 TARGET_SCREEN_WIDTH := 1080
 
 # Build info
